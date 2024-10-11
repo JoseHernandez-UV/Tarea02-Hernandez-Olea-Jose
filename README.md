@@ -1,1 +1,4 @@
-# Tarea02-Hernandez-Olea-Jose
+# Tarea02
+Reinaldo Berríos García, reinaldo.berrios@alumnos.uv.cl
+Juan Durán Aracena, juan.durana@alumnos.uv.cl
+José Hernández Olea, jose.hernandez@alumnos.uv.cl
